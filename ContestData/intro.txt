@@ -1,0 +1,4 @@
+Questions
+==============
+
+This contest contains a bunch of questions which either illustrate important things or force you to learn certain techniques.

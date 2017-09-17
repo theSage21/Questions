@@ -1,0 +1,4 @@
+Identity!
+---------
+
+An identity function is important in computers and math. Software that does not have inputs and outputs is a useless bit of code. Thus it's paramount that we learn to perform IO in our favourite programming language.  Write a program to receive 5 lines of input and print out that input exactly.
